@@ -1,2 +1,2 @@
 # clojureSyntaxisAnalyzer
-Syntaxis analyzer of Clojure programming language using a Racket Scheme
+Syntaxis analyzer of Clojure programming language using a Racket Scheme script
