@@ -1,3 +1,2 @@
 # clojure-SyntaxAnalyzer
-Syntaxis analyzer of Clojure programming language using a Racket Scheme script.
-There is also a version of the analyzer with a Clojure script (Clojure script to analyze Clojure syntax)
+This repo contains three different syntax highlighers made in python, scheme and clojure yo analyze scheme, clojure and haskell respectively.
