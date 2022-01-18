@@ -8,7 +8,7 @@ This repo contains three different syntax highlighers made in python, scheme and
 
 ## Racket Scheme version for Clojure scripts
 ![image](https://user-images.githubusercontent.com/63268327/149864058-a8b20989-ace0-412e-95f7-c08b09eafdcd.png)
-![image](https://user-images.githubusercontent.com/63268327/149863655-f9db5fe5-9d59-41d2-8a91-bd5a6ab335c9.png)
+![image](https://user-images.githubusercontent.com/63268327/149864122-1ebdd009-8773-4aa7-b422-660b741d6367.png)
 
 ## Clojure version for Haskell scripts
 ![image](https://user-images.githubusercontent.com/63268327/149863881-5190ba05-fb60-4262-8f94-a3915c6dab07.png)
