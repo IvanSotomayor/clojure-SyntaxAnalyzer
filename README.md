@@ -7,7 +7,7 @@ This repo contains three different syntax highlighers made in python, scheme and
 ![image](https://user-images.githubusercontent.com/63268327/149863618-117a7372-0561-48ef-8b13-8ef4e488834e.png)
 
 ## Racket Scheme version for Clojure scripts
-![image](https://user-images.githubusercontent.com/63268327/149863351-131de6e5-2810-4c6b-97b9-efdc21ce663f.png)
+![image](https://user-images.githubusercontent.com/63268327/149864058-a8b20989-ace0-412e-95f7-c08b09eafdcd.png)
 ![image](https://user-images.githubusercontent.com/63268327/149863655-f9db5fe5-9d59-41d2-8a91-bd5a6ab335c9.png)
 
 ## Clojure version for Haskell scripts
